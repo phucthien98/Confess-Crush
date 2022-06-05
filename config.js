@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Cái này là P làm cho N giải stress nè",
-    introTitle: 'Gửi cô bạn của tui',
+    introTitle: 'Gửi cô bạn của tui nè',
     introDesc: `My life is a movie
         And everyone's watchin'
         So let's get to the good part
