@@ -1,19 +1,19 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
+    titleWeb: "Cái này là P làm cho N giải stress nè",
     introTitle: 'Gửi cô bạn của tui',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `My life is a movie
+        And everyone's watchin'
+        So let's get to the good part
+        And past all the nonsense`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Tìm người tương thích 🥰',
+    desc: 'Để tính chuyện tương lai ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    question: 'Trên thế giới hơn 7 tỉ người mà nhưng mình chỉ muốn cậu được vui vẻ <3',
+    btnReply: 'Gửi cho cậu <3',
+    reply: 'Vui thì Vui mà không vui thì y... <33333333',
+    mess: 'Mình biết mà 🥰. Y... cậu nhiều nhiều 😘😘',
     messDesc: 'Tuần sau cậu xong dl chưa, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/phuc.pham.94801/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
